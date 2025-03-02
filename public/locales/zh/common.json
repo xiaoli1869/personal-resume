@@ -1,0 +1,241 @@
+{
+  "header": {
+    "home": "首页",
+    "about": "关于",
+    "services": "服务",
+    "portfolio": "作品",
+    "blog": "博客",
+    "contact": "联系",
+    "button": "联系我",
+    "title": "个人",
+    "title1": "履历"
+  },
+  "theme": {
+    "change_appearance": "切换主题"
+  },
+  "home": {
+    "intro": {
+      "greeting": "我是 Leon 👋",
+      "description": "一位富有激情的",
+      "role1": "前端开发工程师",
+      "experience": "拥有",
+      "years": "4年",
+      "worldwide": "的前端工作经验、",
+      "web3Years": "1年",
+      "web3": "Web3 工作经验"
+    },
+    "cta": {
+      "book_call": "复制微信",
+      "copy_email": "复制邮箱",
+      "copied": "已复制到剪贴板"
+    },
+    "work_experience": {
+      "title": "工作经历",
+      "positions": {
+        "google": {
+          "period": "2024 - 2025",
+          "company": "ForthTech",
+          "position": "web3前端工程师"
+        },
+        "meta": {
+          "period": "2022 - 2024",
+          "company": "摩方软件",
+          "position": "前端leader"
+        },
+        "adobe": {
+          "period": "2021 - 2022",
+          "company": "学子有品",
+          "position": "前端工程师"
+        }
+      }
+    },
+    "expertise": {
+      "title": "专业领域",
+      "tools": {
+        "react": "React",
+        "vue": "Vue",
+        "nodejs": "Node",
+        "typescript": "TypeScript",
+        "tailwind": "Tailwind",
+        "nextjs": "Next",
+        "dapp": "DApp",
+        "metamask": "MetaMask",
+        "ethereum": "Ethereum",
+        "vite": "Vite",
+        "electron": "Electron",
+        "uniapp": "UniApp",
+        "antd": "Ant Design",
+        "element": "Element Plus",
+        "cursor": "Cursor"
+      }
+    },
+    "projects": {
+      "title": "近期项目",
+      "view_all": "查看全部",
+      "categories": {
+        "product_design": "前端开发"
+      }
+    },
+    "services": {
+      "title": "提供的服务",
+      "view_all": "查看所有服务",
+      "types": {
+        "uiux": "桌面应用开发",
+        "mobile": "移动应用开发",
+        "product": "网页开发",
+        "branding": "DApp开发"
+      }
+    },
+    "contact": {
+      "marquee": "可以接受新的工作机会 🚀 打造数字体验 🎨",
+      "title": "让我们👋\n共同努力吧",
+      "cta": "让我们谈谈"
+    }
+  },
+  "about": {
+    "intro": {
+      "greeting": "嗨，我是 Leon 👋",
+      "description": "一位充满激情的",
+      "role": "前端开发工程师",
+      "experience": "拥有",
+      "years": "4年",
+      "worldwide": "的前端工作经验、",
+      "web3Years": "1年",
+      "web3": "Web3 工作经验"
+    },
+    "status": {
+      "available": "可以接受新的工作机会"
+    },
+    "stats": {
+      "experience": {
+        "number": "4+",
+        "label": "年工作经验"
+      },
+      "projects": {
+        "number": "10+",
+        "label": "完成的项目"
+      },
+      "clients": {
+        "number": "20+",
+        "label": "满意的客户"
+      }
+    },
+    "brands": {
+      "title": "使用过的技术"
+    },
+    "testimonials": {
+      "title": "客户的信任",
+      "navigation": {
+        "prev": "上一个",
+        "next": "下一个"
+      },
+      "review": {
+        "rating": "5星",
+        "quote": "我们使用BentoFolio已经一年多了，不得不说，它为我们带来了巨大的改变。用户界面直观，功能齐全。",
+        "author": "奥利弗·克莱恩",
+        "position": "产品设计师"
+      }
+    },
+    "awards": {
+      "title": "奖项和荣誉",
+      "adobe": {
+        "title": "Adobe 设计大赛",
+        "period": "2022 - 2023",
+        "award": "亚军"
+      },
+      "dribbble": {
+        "title": "Dribbble 设计大赛",
+        "period": "2022 - 2023",
+        "award": "金奖"
+      },
+      "awwwards": {
+        "title": "Awwwards 提名",
+        "period": "2022 - 2023",
+        "award": "亚军"
+      },
+      "behance": {
+        "title": "Behance 设计大赛",
+        "period": "2022 - 2023",
+        "award": "金奖"
+      },
+      "view_project": "查看项目"
+    },
+    "blog": {
+      "title": "文章和出版物",
+      "navigation": {
+        "prev": "上一篇",
+        "next": "下一篇"
+      }
+    },
+    "contact": {
+      "button": "让我们 👋 一起工作"
+    }
+  },
+  "services": {
+    "title": "我提供的",
+    "titleHighlight": "服务",
+    "description": "将设计转化为交互现实，通过我精湛的",
+    "descriptionHighlight": "前端开发与用户体验优化",
+    "descriptionEnd": "，提升您的数字化存在！",
+    "availableForHire": "可以接受雇佣",
+    "cards": {
+      "uiUxDesign": "桌面应用开发",
+      "mobileApp": "移动应用开发",
+      "productDesign": "网页开发",
+      "branding": "DApp开发",
+      "photography": "前端架构",
+      "motionDesign": "动画实现",
+      "webDevelopment": "小程序开发",
+      "visualization": "可视化"
+    }
+  },
+  "portfolio": {
+    "title": "查看我最新的",
+    "titleHighlight": "项目",
+    "description": "如果您正在寻找一位前端工程师将您的愿景转化为精准的代码实现，或需要一位技术伙伴通过前沿的Web技术为您的业务注入增长动力，我愿为您的用户创造丝滑的交互体验。",
+    "projects": {
+      "op": {
+        "title": "OnePort 官网",
+        "description": "官网 | 部署开发"
+      },
+      "ft": {
+        "title": "ForthTech 官网",
+        "description": "官网 | 部署开发"
+      },
+      "op_admin": {
+        "title": "OnePort TenantManagement",
+        "description": "后台管理 | 部署开发"
+      },
+      "onefly": {
+        "title": "某DApp",
+        "description": "DApp | 部署开发"
+      },
+      "liquix": {
+        "title": "LiquiX",
+        "description": "DeFi | 前端开发"
+      },
+      "lendingX": {
+        "title": "某DeFi",
+        "description": "DeFi 借贷 | 部署开发"
+      },
+      "mof": {
+        "title": "摩方软件PC端",
+        "description": "桌面应用 | 部署开发"
+      },
+      "mofsaas": {
+        "title": "摩方SaaS",
+        "description": "管理平台 | 部署开发"
+      }
+    }
+  },
+  "blog": {
+    "title": "我的最新文章和出版物",
+    "search_description": "如果您正在寻找一位前端工程师将您的愿景转化为精准的代码实现，或需要一位技术伙伴通过前沿的Web技术为您的业务注入增长动力，我愿为您的用户创造丝滑的交互体验。",
+    "article": {
+      "development": "开发",
+      "read_time": "3分钟阅读",
+      "date": "2025年3月1日",
+      "title": "Next.js 13+ App Router 国际化方案实践"
+    }
+  }
+}

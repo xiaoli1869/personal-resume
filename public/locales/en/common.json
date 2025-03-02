@@ -1,0 +1,219 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "contact": "Contact",
+    "button": "Let's Talk",
+    "title": "Personal",
+    "title1": "Resume"
+  },
+  "theme": {
+    "change_appearance": "Change Theme"
+  },
+  "home": {
+    "intro": {
+      "greeting": "I'm Leon 👋",
+      "description": "A Passionate",
+      "role1": "Frontend Developer",
+      "experience": "with",
+      "years": "4 years",
+      "worldwide": "of Frontend Experience,",
+      "web3Years": "1 year",
+      "web3": "Web3 Experience"
+    },
+    "cta": {
+      "book_call": "Copy WeChat",
+      "copy_email": "Copy Email",
+      "copied": "Copied to clipboard"
+    },
+    "work_experience": {
+      "title": "Work Experience",
+      "positions": {
+        "google": {
+          "period": "2024 - 2025",
+          "company": "ForthTech",
+          "position": "Web3 Frontend Engineer"
+        },
+        "meta": {
+          "period": "2022 - 2024",
+          "company": "MoFang Software",
+          "position": "Frontend Team Lead"
+        },
+        "adobe": {
+          "period": "2021 - 2022",
+          "company": "XueZi YouPin",
+          "position": "Frontend Engineer"
+        }
+      }
+    },
+    "expertise": {
+      "title": "Expertise",
+      "tools": {
+        "react": "React",
+        "vue": "Vue",
+        "nodejs": "Node",
+        "typescript": "TypeScript",
+        "tailwind": "Tailwind",
+        "nextjs": "Next",
+        "dapp": "DApp",
+        "metamask": "MetaMask",
+        "ethereum": "Ethereum",
+        "vite": "Vite",
+        "electron": "Electron",
+        "uniapp": "UniApp",
+        "antd": "Ant Design",
+        "element": "Element Plus",
+        "cursor": "Cursor"
+      }
+    },
+    "projects": {
+      "title": "Recent Projects",
+      "view_all": "View All",
+      "categories": {
+        "product_design": "Frontend Development"
+      }
+    },
+    "services": {
+      "title": "Services Offered",
+      "view_all": "View All Services",
+      "types": {
+        "uiux": "Desktop App Development",
+        "mobile": "Mobile App Development",
+        "product": "Web Development",
+        "branding": "DApp Development"
+      }
+    },
+    "contact": {
+      "marquee": "Available For New Opportunities 🚀 Crafting Digital Experiences 🎨",
+      "title": "Let's👋\nWork Together",
+      "cta": "Let's Talk"
+    }
+  },
+  "about": {
+    "intro": {
+      "greeting": "Hi, This Is Leon 👋",
+      "description": "A Passionate",
+      "role": "Frontend Developer",
+      "experience": "having",
+      "years": "4 years",
+      "worldwide": "of Frontend Experience over Web3 Development"
+    },
+    "status": {
+      "available": "Available For Hire"
+    },
+    "stats": {
+      "experience": {
+        "number": "4+",
+        "label": "Years of Experience"
+      },
+      "projects": {
+        "number": "50+",
+        "label": "Projects Completed"
+      },
+      "clients": {
+        "number": "30+",
+        "label": "Happy Clients"
+      }
+    },
+    "brands": {
+      "title": "Working With Many Brands",
+      "companies": ["Notion", "Webflow", "Mico", "Framer", "Zeplin", "Figma"]
+    },
+    "testimonials": {
+      "title": "Trusted By Many Clients",
+      "navigation": {
+        "prev": "Previous",
+        "next": "Next"
+      },
+      "review": {
+        "rating": "5 stars",
+        "quote": "We've been using BentoFolio for over a year now, and I must say, it's been a game-changer for us. The user interface is intuitive and the feature.",
+        "author": "Oliver Clain",
+        "position": "Product Designer"
+      }
+    },
+    "awards": {
+      "title": "Awards and Recognitions",
+      "adobe": {
+        "title": "Adobe Design Contest",
+        "period": "2022 - 2023",
+        "award": "Runner Up"
+      },
+      "dribbble": {
+        "title": "Dribbble Design Contest",
+        "period": "2022 - 2023",
+        "award": "Gold Winner"
+      },
+      "awwwards": {
+        "title": "Awwwards Nominee",
+        "period": "2022 - 2023",
+        "award": "Runner Up"
+      },
+      "behance": {
+        "title": "Behance Design Contest",
+        "period": "2022 - 2023",
+        "award": "Gold Winner"
+      },
+      "view_project": "View Project"
+    },
+    "blog": {
+      "title": "Article and Publications",
+      "navigation": {
+        "prev": "Previous",
+        "next": "Next"
+      },
+      "article": {
+        "tag": "Development",
+        "title": "Want To Upgrade Your Brain? Stop Doing These 7 Things",
+        "read_time": "15 min read",
+        "date": "Nov 6, 2023"
+      }
+    },
+    "contact": {
+      "button": "Let's Work Together"
+    }
+  },
+  "services": {
+    "title": "Services I",
+    "titleHighlight": "Offered",
+    "description": "Transforming Ideas into Innovative Reality, Elevate Your Vision with Our Expert",
+    "descriptionHighlight": "Product Design and Development",
+    "descriptionEnd": "Services!",
+    "availableForHire": "Available For Hire",
+    "cards": {
+      "uiUxDesign": "UI UX Design",
+      "mobileApp": "Mobile App",
+      "productDesign": "Product Design",
+      "branding": "Branding",
+      "photography": "Photography",
+      "motionDesign": "Motion Design",
+      "webDevelopment": "Web Development",
+      "visualization": "Visualization"
+    }
+  },
+  "portfolio": {
+    "title": "Check Out My Latest",
+    "titleHighlight": "Projects",
+    "description": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level.",
+    "projects": {
+      "aimug": {
+        "title": "AIMug - AI Writing Application Tools",
+        "description": "Product Design | Application",
+        "link": "https://www.google.com"
+      }
+    }
+  },
+  "blog": {
+    "title": "My Recent Article and Publications",
+    "search_description": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level.",
+    "article": {
+      "development": "Development",
+      "read_time": "15 min read",
+      "date": "Nov 6, 2023",
+      "title": "Want To Upgrade Your Brain? Stop Doing These 7 Things"
+    }
+  }
+}
