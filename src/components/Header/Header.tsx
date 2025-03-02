@@ -100,8 +100,8 @@ const Header = async ({ lang }: { lang: string }) => {
                 </button>
               </div>
 
-              <a
-                href="contact.html"
+              <Link
+                href="/contact"
                 className="inline-flex items-center gap-2 rounded-lg bg-dark px-6 py-4 text-center text-base font-semibold leading-tight text-white transition hover:bg-primary dark:bg-dark-2 dark:text-white dark:hover:bg-primary dark:hover:text-white"
               >
                 <span>{t("header.button")}</span>
@@ -118,7 +118,7 @@ const Header = async ({ lang }: { lang: string }) => {
                   <path d="M17.5 11.667v-5h-5"></path>
                   <path d="m17.5 6.667-7.5 7.5-7.5-7.5"></path>
                 </svg>
-              </a>
+              </Link>
             </div>
 
             {/* Navigation toggler */}
@@ -229,8 +229,8 @@ const Header = async ({ lang }: { lang: string }) => {
               <span>{t("theme.change_appearance")}</span>
             </button>
 
-            <a
-              href="contact.html"
+            <Link
+              href="/contact"
               className="inline-flex w-full items-center justify-center gap-2 rounded-lg bg-dark px-6 py-4 text-center text-base font-semibold leading-tight text-white transition hover:bg-primary dark:bg-dark-2 dark:text-white dark:hover:bg-primary dark:hover:text-white"
             >
               <span>{t("header.contact")}</span>
@@ -247,7 +247,7 @@ const Header = async ({ lang }: { lang: string }) => {
                 <path d="M17.5 11.667v-5h-5"></path>
                 <path d="m17.5 6.667-7.5 7.5-7.5-7.5"></path>
               </svg>
-            </a>
+            </Link>
           </div>
         </div>
       </div>

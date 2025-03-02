@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   title: "Leon Li | Frontend Engineer",
   description:
     "Frontend engineer specializing in React, TypeScript, and modern web technologies. View my portfolio of web applications and interactive experiences.",
+  icons: {
+    icon: "/favicon.ico",
+  },
   keywords: [
     "Leon",
     "Frontend Engineer",
