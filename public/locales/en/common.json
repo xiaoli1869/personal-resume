@@ -11,18 +11,18 @@
     "title1": "Resume"
   },
   "theme": {
-    "change_appearance": "Change Theme"
+    "change_appearance": "Toggle Theme"
   },
   "home": {
     "intro": {
-      "greeting": "I'm Leon 👋",
-      "description": "A Passionate",
-      "role1": "Frontend Developer",
-      "experience": "with",
+      "greeting": "I'm Leon Li 👋",
+      "description": "A passionate",
+      "role1": "Frontend Engineer",
+      "experience": "With",
       "years": "4 years",
-      "worldwide": "of Frontend Experience,",
+      "worldwide": "of frontend experience,",
       "web3Years": "1 year",
-      "web3": "Web3 Experience"
+      "web3": "Web3 experience"
     },
     "cta": {
       "book_call": "Copy WeChat",
@@ -39,12 +39,12 @@
         },
         "meta": {
           "period": "2022 - 2024",
-          "company": "MoFang Software",
+          "company": "MOF Software",
           "position": "Frontend Team Lead"
         },
         "adobe": {
           "period": "2021 - 2022",
-          "company": "XueZi YouPin",
+          "company": "XueZiYouPin",
           "position": "Frontend Engineer"
         }
       }
@@ -87,137 +87,159 @@
       }
     },
     "contact": {
-      "marquee": "Available For New Opportunities 🚀 Crafting Digital Experiences 🎨",
-      "title": "Let's👋\nWork Together",
+      "marquee": "Available for new opportunities 🚀 Creating digital experiences 🎨",
+      "title": "Let's work 👋\ntogether",
       "cta": "Let's Talk"
     }
   },
   "about": {
     "intro": {
-      "greeting": "Hi, This Is Leon 👋",
-      "description": "A Passionate",
-      "role": "Frontend Developer",
-      "experience": "having",
+      "greeting": "Hi, I'm Leon Li 👋",
+      "description": "A passionate",
+      "role": "Frontend Engineer",
+      "experience": "With",
       "years": "4 years",
-      "worldwide": "of Frontend Experience over Web3 Development"
+      "worldwide": "of frontend experience,",
+      "web3Years": "1 year",
+      "web3": "Web3 experience"
     },
     "status": {
-      "available": "Available For Hire"
+      "available": "Available for new opportunities"
     },
     "stats": {
       "experience": {
         "number": "4+",
-        "label": "Years of Experience"
+        "label": "Years Experience"
       },
       "projects": {
-        "number": "50+",
+        "number": "10+",
         "label": "Projects Completed"
       },
       "clients": {
-        "number": "30+",
-        "label": "Happy Clients"
+        "number": "20+",
+        "label": "Satisfied Clients"
       }
     },
     "brands": {
-      "title": "Working With Many Brands",
-      "companies": ["Notion", "Webflow", "Mico", "Framer", "Zeplin", "Figma"]
+      "title": "Technologies Used"
     },
     "testimonials": {
-      "title": "Trusted By Many Clients",
+      "title": "Client Trust",
       "navigation": {
         "prev": "Previous",
         "next": "Next"
       },
       "review": {
-        "rating": "5 stars",
-        "quote": "We've been using BentoFolio for over a year now, and I must say, it's been a game-changer for us. The user interface is intuitive and the feature.",
-        "author": "Oliver Clain",
+        "rating": "5 Stars",
+        "quote": "We've been using BentoFolio for over a year now, and I must say, it has been transformative. The user interface is intuitive and feature-rich.",
+        "author": "Oliver Klein",
         "position": "Product Designer"
       }
     },
     "awards": {
-      "title": "Awards and Recognitions",
+      "title": "Awards & Recognition",
       "adobe": {
-        "title": "Adobe Design Contest",
+        "title": "Adobe Design Competition",
         "period": "2022 - 2023",
-        "award": "Runner Up"
+        "award": "Runner-up"
       },
       "dribbble": {
-        "title": "Dribbble Design Contest",
+        "title": "Dribbble Design Competition",
         "period": "2022 - 2023",
-        "award": "Gold Winner"
+        "award": "Gold Award"
       },
       "awwwards": {
-        "title": "Awwwards Nominee",
+        "title": "Awwwards Nomination",
         "period": "2022 - 2023",
-        "award": "Runner Up"
+        "award": "Runner-up"
       },
       "behance": {
-        "title": "Behance Design Contest",
+        "title": "Behance Design Competition",
         "period": "2022 - 2023",
-        "award": "Gold Winner"
+        "award": "Gold Award"
       },
       "view_project": "View Project"
     },
     "blog": {
-      "title": "Article and Publications",
+      "title": "Articles & Publications",
       "navigation": {
         "prev": "Previous",
         "next": "Next"
-      },
-      "article": {
-        "tag": "Development",
-        "title": "Want To Upgrade Your Brain? Stop Doing These 7 Things",
-        "read_time": "15 min read",
-        "date": "Nov 6, 2023"
       }
     },
     "contact": {
-      "button": "Let's Work Together"
+      "button": "Let's Work Together 👋"
     }
   },
   "services": {
-    "title": "Services I",
-    "titleHighlight": "Offered",
-    "description": "Transforming Ideas into Innovative Reality, Elevate Your Vision with Our Expert",
-    "descriptionHighlight": "Product Design and Development",
-    "descriptionEnd": "Services!",
-    "availableForHire": "Available For Hire",
+    "title": "My",
+    "titleHighlight": "Services",
+    "description": "Transform designs into interactive reality through my expertise in",
+    "descriptionHighlight": "frontend development and UX optimization",
+    "descriptionEnd": ", elevating your digital presence!",
+    "availableForHire": "Available for Hire",
     "cards": {
-      "uiUxDesign": "UI UX Design",
-      "mobileApp": "Mobile App",
-      "productDesign": "Product Design",
-      "branding": "Branding",
-      "photography": "Photography",
-      "motionDesign": "Motion Design",
-      "webDevelopment": "Web Development",
+      "uiUxDesign": "Desktop App Development",
+      "mobileApp": "Mobile App Development",
+      "productDesign": "Web Development",
+      "branding": "DApp Development",
+      "photography": "Frontend Architecture",
+      "motionDesign": "Animation Implementation",
+      "webDevelopment": "Mini Program Development",
       "visualization": "Visualization"
     }
   },
   "portfolio": {
-    "title": "Check Out My Latest",
-    "titleHighlight": "Projects",
-    "description": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level.",
+    "title": "Check out my latest",
+    "titleHighlight": "projects",
+    "description": "If you're looking for a frontend engineer to transform your vision into precise code implementation, or need a technical partner to drive your business growth through cutting-edge web technologies, I'm here to create smooth interactive experiences for your users.",
     "projects": {
-      "aimug": {
-        "title": "AIMug - AI Writing Application Tools",
-        "description": "Product Design | Application",
-        "link": "https://www.google.com"
+      "op": {
+        "title": "OnePort Website",
+        "description": "Website | Development & Deployment"
+      },
+      "ft": {
+        "title": "ForthTech Website",
+        "description": "Website | Development & Deployment"
+      },
+      "op_admin": {
+        "title": "OnePort TenantManagement",
+        "description": "Admin Panel | Development & Deployment"
+      },
+      "onefly": {
+        "title": "DApp Project",
+        "description": "DApp | Development & Deployment"
+      },
+      "liquix": {
+        "title": "LiquiX",
+        "description": "DeFi | Frontend Development"
+      },
+      "lendingX": {
+        "title": "DeFi Project",
+        "description": "DeFi Lending | Development & Deployment"
+      },
+      "mof": {
+        "title": "MOF Software Desktop",
+        "description": "Desktop App | Development & Deployment"
+      },
+      "mofsaas": {
+        "title": "MOF SaaS",
+        "description": "Management Platform | Development & Deployment"
       }
     }
   },
   "blog": {
-    "title": "My Recent Article and Publications",
-    "search_description": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level.",
+    "title": "My Latest Articles and Publications",
+    "search_description": "If you're looking for a frontend engineer to transform your vision into precise code implementation, or need a technical partner to drive your business growth through cutting-edge web technologies, I'm here to create smooth interactive experiences for your users.",
     "article": {
       "development": "Development",
-      "read_time": "15 min read",
-      "date": "Nov 6, 2023",
-      "title": "Want To Upgrade Your Brain? Stop Doing These 7 Things"
+      "read_time": "3 min read",
+      "date": "March 1, 2025",
+      "title": "Next.js 13+ App Router Internationalization Implementation"
     }
   },
   "contact": {
-    "title": "Let's 👋 Work Together",
-    "description": "I'm here to help if you're searching for a product designer to bring your idea to life or a design partner to help take your business to the next level."
+    "title": "Let's collaborate 👋",
+    "description": "If you're looking for a frontend engineer to transform your vision into precise code implementation, or need a technical partner to drive your business growth through cutting-edge web technologies, I'm here to create smooth interactive experiences for your users."
   }
 }
